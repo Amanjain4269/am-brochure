@@ -1,2 +1,1 @@
-# am-brochure
-This is Arti Metal.
+arti-metal-brochure
